@@ -2,6 +2,7 @@
 .Rhistory
 .Rapp.history
 
+JADORE LES CONFLITS
 # Session Data files
 .RData
 
@@ -41,5 +42,4 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-#Rproj
-*.Rproj
+
