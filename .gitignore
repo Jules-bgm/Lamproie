@@ -26,4 +26,10 @@ vignettes/*.pdf
 *.knit.md
 # R Environment Variables
 .Renviron
+<<<<<<< HEAD
 Lamproie.Rproj
+=======
+
+#Rproj
+*.Rproj
+>>>>>>> 92df53ef236a3549a9108d3ffbccc96a670bf503
