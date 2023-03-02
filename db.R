@@ -1,7 +1,7 @@
 
 ###############################################################################
 
-# récupérer un objet postgres -----------------------------------------------------
+# rÃ©cupÃ©rer un objet postgres -----------------------------------------------------
 
 library("RPostgres")
 library("DBI")
@@ -23,7 +23,7 @@ table_id2<-DBI::Id(
     table="releve_sonde"
 )
 
-# récupérer un objet postgis ----------------------------------------------------
+# rÃ©cupÃ©rer un objet postgis ----------------------------------------------------
 
 library("sf")
 library("maptools")
